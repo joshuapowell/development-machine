@@ -55,4 +55,3 @@ Download and install XCode from the AppStore
 - PGCommander
 - Google Chrome
 - Google Drive
-- 1Password
