@@ -13,7 +13,7 @@ Download and install XCode from the AppStore
 2. Type `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 ### Install Node
-1. `brew install node@0.12`
+1. `brew install node`
 
 ### Install Grunt
 1. `npm install -g grunt-cli`
@@ -26,6 +26,9 @@ Download and install XCode from the AppStore
 
 ### Install Virtualenv
 1. `sudo pip install virtualenv`
+
+### Install SASS
+--------
 
 ### Setup VIM with
 1. Open Terminal
@@ -44,14 +47,17 @@ Download and install XCode from the AppStore
 
 ## Add Appropriate Authentication for Repository Access
 
-
 ### Add new SSH Key to Github
 1. Go to https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/ and follow on screen instructions
 
-
 # Other Applications to Install
+- Google Drive File System
+- 1Password
 - Sketch
 - Postgres.app
 - PGCommander
 - Google Chrome
-- Google Drive
+- Atom
+- join.me
+- Slack
+
