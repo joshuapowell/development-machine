@@ -57,7 +57,17 @@ Download and install XCode from the AppStore
 - Postgres.app
 - PGCommander
 - Google Chrome
-- Atom
-- join.me
 - Slack
+- CleanMyMac
+- Realm Studio
+- VPN
+- Virus Scanner
+- Microsoft Office
+- PAW
+- Invision Studio
+- Arduino
+- Fritzing
+- Processing
+- Grammarly
+- Docker
 
