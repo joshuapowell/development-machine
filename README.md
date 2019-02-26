@@ -27,6 +27,21 @@ Download and install XCode from the AppStore
 ### Install Virtualenv
 1. `sudo pip install virtualenv`
 
+### Install MatPlot
+1. `python3 -mpip install matplotlib`
+
+### Install Numpy
+1. `python3 -mpip install numpy`
+
+### Install Pandas
+1. `python3 -mpip install pandas`
+
+### Install SciPy
+1. `python3 -mpip install scipy`
+
+### Install Seaborn
+1. `python3 -mpip install seaborn`
+
 ### Install SASS
 --------
 
