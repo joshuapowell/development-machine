@@ -12,6 +12,20 @@ Download and install XCode from the AppStore
 1. Open Terminal
 2. Type `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
+### Create an empty bash_profile
+
+```
+touch ~/.bash_profile
+```
+
+### Install Ruby
+```
+brew update
+brew install ruby
+
+echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
+```
+
 ### Install Node
 1. `brew install node`
 
